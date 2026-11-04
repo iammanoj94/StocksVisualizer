@@ -1,0 +1,1 @@
+"""StockVisualizer application package."""

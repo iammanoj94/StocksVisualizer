@@ -1,0 +1,17 @@
+{
+  "HDFCBANK": {
+    "status_code": 200,
+    "error": null,
+    "response_file": "HDFCBANK.json"
+  },
+  "MARUTI": {
+    "status_code": 200,
+    "error": null,
+    "response_file": "MARUTI.json"
+  },
+  "CIPLA": {
+    "status_code": 200,
+    "error": null,
+    "response_file": "CIPLA.json"
+  }
+}
