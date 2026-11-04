@@ -1,0 +1,2 @@
+# StocksVisualizer
+My stocks Dashboard
